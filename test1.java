@@ -6,4 +6,9 @@ public class test1
   {
     System.out.println("This is the orgin commit");
   }
+  //This is the second commit of master
+  void display() 
+  {
+	System.out.println("Hi, I'm a master");
+  }
 }
